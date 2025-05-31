@@ -64,4 +64,9 @@ Claro! Aqui está um resumo objetivo e direto do seu tutorial sequencial:
 -   Instalar e configurar o Prettier Reforçar estilos de código
 -   Repositório: [https://github.com/leonardorsolar/padrao-codigo-iff-lint-prettier](https://github.com/leonardorsolar/padrao-codigo-iff-lint-prettier)
 
+## Parte 7 — Qualidade de Código com SonarQube
+
+-   Aprenderá a utilizar Sonarcloud para avaliar Qualidade de Código
+-   Repositório: [https://github.com/leonardorsolar/iff-sonarcloud-program-typescript-server](https://github.com/leonardorsolar/iff-sonarcloud-program-typescript-server)
+
 ---
