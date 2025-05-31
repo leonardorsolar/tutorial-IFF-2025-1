@@ -8,27 +8,41 @@ Claro! Aqui está um resumo objetivo e direto do seu tutorial sequencial:
 
 ## Parte 1 — Projeto Básico JavaScript + MVC no Node.js
 
--   Aprenda a baixar, entender e executar um projeto básico Node.js usando JavaScript puro e arquitetura MVC.
+-   Aprenderá a baixar o projeto do GitHub
+-   Comprender rodar e a saber como funciona uma função em javascript
+-   Será desafiado a rodar e acomprender um projeto simples mvc.
+-   Uso do paradigma Procedural (ou Estruturado) - Uso de função (usuario) para encapsular um comportamento.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-](https://github.com/leonardorsolar/iff-basic-program-javascript-)
 
-## Parte 2 — Projeto Frontend para Registrar Usuário
+## Parte 2 — Projeto Frontend em HTML, CSS e JavaScript para Registrar Usuário
 
--   Projeto frontend simples com HTML, CSS e JavaScript para enviar dados ao backend.
+-   Aprenderá a baixar o projeto do GitHub
+-   Como abrir e entender os arquivos HTML, CSS e JavaScript.
+-   Como rodar o projeto localmente para testar no navegador.
+-   Como funciona o código que envia dados do formulário para um servidor (backend).
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-front](https://github.com/leonardorsolar/iff-basic-program-javascript-front)
 
-## Parte 3 — Executando Node.js com TypeScript e Express
+## Parte 3 — Executando um servidor Node.js com TypeScript e Express
 
--   Aprenda a rodar localmente um backend com TypeScript e Express.
+-   Aprenderá a baixar o projeto do GitHub
+-   Compreenderá como rodar um servidor (localmente) do tipo Express.
+-   Utilizaremos TypeScript (Linguagem de programação fortemente tipada)
+-   Entraremos no paradigma orientado a objetos (OOP)
+-   Será desafiado a conectar um projeto Front end com um Back end.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server-express](https://github.com/leonardorsolar/iff-basic-program-javascript-server-express)
 
 ## Parte 4 — Rodando backend Node.js + TypeScript + Express
 
--   Tutorial para clonar, instalar e executar backend em Node.js com TypeScript e Express, base para integração com frontend da Parte 2.
+-   Aprenderá a baixar o projeto do GitHub
+-   Conhecerá uma arquitetura em camadas
+-   Utilizaremos TypeScript (Linguagem de programação fortemente tipada)
+-   Utilizará o paradigma orientado a objetos (OOP)
+-   Será desafiado a conectar um projeto Front end com um Back end.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server](https://github.com/leonardorsolar/iff-basic-program-javascript-server)
 
 ## Parte 5 — Organizando backend com arquitetura em camadas (Layers)
 
--   Aprenda a estruturar o backend em camadas para facilitar manutenção e escalabilidade, usando:
+-   Será desafiado a estruturar o backend em camadas para facilitar manutenção e escalabilidade, usando:
 
     -   Routes: definição das rotas HTTP
     -   Controller: entrada e saída das requisições
