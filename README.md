@@ -1,10 +1,4 @@
-# Tutorial Sequencial para Iniciantes em JavaScript e Frontend com Node.js]
-
-Claro! Aqui está um resumo objetivo e direto do seu tutorial sequencial:
-
----
-
-# Resumo: Tutorial Sequencial para Iniciantes em JavaScript e Backend com Node.js
+# Tutorial Sequencial para Iniciantes em JavaScript e Frontend com Node.js
 
 ## Parte 1 — Projeto Básico JavaScript + MVC no Node.js
 
@@ -40,7 +34,14 @@ Claro! Aqui está um resumo objetivo e direto do seu tutorial sequencial:
 -   Será desafiado a conectar um projeto Front end com um Back end.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server](https://github.com/leonardorsolar/iff-basic-program-javascript-server)
 
-## Parte 5 — Organizando backend com arquitetura em camadas (Layers)
+## Parte 5 — Projeto em React javascript para Registrar Usuário
+
+-   Aprenderá a baixar o projeto do GitHub
+-   Como abrir e entender os arquivos do react.
+-   Como rodar o projeto .
+-   Repositório: [https://github.com/leonardorsolar/iff-basic-program-react-front](https://github.com/leonardorsolar/iff-basic-program-react-front)
+
+## Parte 6 — Organizando backend com arquitetura em camadas (Layers)
 
 -   Será desafiado a estruturar o backend em camadas para facilitar manutenção e escalabilidade, usando:
 
@@ -54,17 +55,16 @@ Claro! Aqui está um resumo objetivo e direto do seu tutorial sequencial:
 -   Projeto simples para cadastrar usuários com Express, TypeScript e SQLite.
 -   Repositório: [https://github.com/leonardorsolar/iff-architecture-program-javascript-server](https://github.com/leonardorsolar/iff-architecture-program-javascript-server)
 
-## Parte 6 — Padrão de código com typescript
+## Parte 7 — Padrão de código com typescript
 
 -   Aprenderá a iniciar um projeto node TypeScript
 -   Padrão de Commits com Conventional Commits
--   Commits Atômicos
 -   Commits Atômicos
 -   Instalar o ESLint - Reforçar padrões de código
 -   Instalar e configurar o Prettier Reforçar estilos de código
 -   Repositório: [https://github.com/leonardorsolar/padrao-codigo-iff-lint-prettier](https://github.com/leonardorsolar/padrao-codigo-iff-lint-prettier)
 
-## Parte 7 — Qualidade de Código com SonarQube
+## Parte 8 — Qualidade de Código com SonarQube
 
 -   Aprenderá a utilizar Sonarcloud para avaliar Qualidade de Código
 -   Repositório: [https://github.com/leonardorsolar/iff-sonarcloud-program-typescript-server](https://github.com/leonardorsolar/iff-sonarcloud-program-typescript-server)
