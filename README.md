@@ -496,3 +496,94 @@ Você aprenderá como:
 Assim, você terá o ciclo completo: **Frontend + Backend trabalhando juntos!**
 
 ---
+
+Claro! Aqui está o tutorial **Parte 5**, focado em arquitetura de software e organização do backend em camadas, para ajudar o aluno a entender e aplicar boas práticas, deixando o projeto mais escalável e fácil de manter.
+
+---
+
+# 🧑‍💻 Tutorial Parte 5 — Organizando o backend com arquitetura em camadas (Layers) em Node.js + TypeScript
+
+Repositório:
+[https://github.com/leonardorsolar/iff-architecture-program-javascript-server](https://github.com/leonardorsolar/iff-architecture-program-javascript-server)
+
+Neste tutorial, você vai aprender a organizar o código do seu backend em camadas, seguindo um padrão muito usado na indústria: **Arquitetura em Camadas**.
+
+Essa abordagem separa responsabilidades do código para facilitar a manutenção, escalabilidade, reutilização e teste.
+
+Uma API simples para cadastrar usuários, utilizando:
+
+Express (servidor web)
+TypeScript (tipagem e organização do código)
+SQLite (banco de dados leve)
+Arquitetura modular com separação por responsabilidade
+
+## 📁 Estrutura inical do Projeto (dentro da pasta `src/`)
+
+```
+src/
+├── index.ts                      # Arquivo principal (server)
+├── controladora/
+│   └── ControladorUsuario.ts     # Controller responsável pelas regras de negócio
+├── bancodados/
+│   └── database.ts               # Conexão e operações com o banco de dados
+```
+
+---
+
+## 🎯 Objetivo
+
+Transformar o backend atual em um projeto organizado com as seguintes camadas:
+
+| Camada         | Responsabilidade                                         |
+| -------------- | -------------------------------------------------------- |
+| **Routes**     | Configuração e definição das rotas HTTP                  |
+| **Controller** | Recebe requisições e retorna respostas (entrada/saída)   |
+| **Service**    | Contém as regras de negócio e lógica da aplicação        |
+| **Repository** | Responsável pelo acesso e manipulação dos dados no banco |
+| **Model**      | Define a estrutura das entidades (ex: Usuário)           |
+| **Database**   | Configura conexão e operações do banco de dados          |
+
+---
+
+## 📁 Estrutura Final do Projeto (dentro da pasta `src/`)
+
+```
+src/
+├── routes/
+│   └── usuario.routes.ts           # Define rotas relacionadas ao usuário
+├── controllers/
+│   └── UsuarioController.ts        # Controlador para regras de entrada e saída
+├── services/
+│   └── UsuarioService.ts           # Lógica e regras de negócio
+├── repositories/
+│   └── UsuarioRepository.ts        # Acesso aos dados do usuário no banco
+├── models/
+│   └── Usuario.ts                  # Modelo da entidade usuário
+├── database/
+│   └── sqlite.ts                   # Configuração do banco de dados
+├── index.ts                       # Arquivo principal que inicia o servidor
+```
+
+---
+
+## 📝 Recapitulando
+
+-   Dividimos o backend em camadas que separam responsabilidades.
+-   Criamos modelo, repositório, serviço, controlador e rotas.
+-   Esse padrão torna seu código mais organizado, fácil de entender e manter.
+-   Você pode agora expandir seu backend para usar banco de dados real e regras complexas.
+
+---
+
+## 🔗 Próximos passos
+
+-   Continue usando o **frontend da Parte 2** para consumir essas rotas e fazer o registro de usuários no seu backend organizado.
+-   A partir daqui, você poderá adicionar autenticação, validações, testes automatizados e muito mais.
+
+---
+
+Se quiser, posso ajudar com exemplos para integrar este backend organizado ao frontend da Parte 2! Quer que eu faça?
+
+---
+
+Quer que eu gere também o código completo com comentários para você copiar e colar?
