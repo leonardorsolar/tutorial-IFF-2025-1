@@ -1,4 +1,46 @@
-# Tutorial Sequencial para Iniciantes em JavaScript e Frontend com Node.js
+# Tutorial Sequencial para Iniciantes em JavaScript e Frontend com Node.js]
+
+Claro! Aqui está um resumo objetivo e direto do seu tutorial sequencial:
+
+---
+
+# Resumo: Tutorial Sequencial para Iniciantes em JavaScript e Backend com Node.js
+
+## Parte 1 — Projeto Básico JavaScript + MVC no Node.js
+
+-   Aprenda a baixar, entender e executar um projeto básico Node.js usando JavaScript puro e arquitetura MVC.
+-   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-](https://github.com/leonardorsolar/iff-basic-program-javascript-)
+
+## Parte 2 — Projeto Frontend para Registrar Usuário
+
+-   Projeto frontend simples com HTML, CSS e JavaScript para enviar dados ao backend.
+-   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-front](https://github.com/leonardorsolar/iff-basic-program-javascript-front)
+
+## Parte 3 — Executando Node.js com TypeScript e Express
+
+-   Aprenda a rodar localmente um backend com TypeScript e Express.
+-   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server-express](https://github.com/leonardorsolar/iff-basic-program-javascript-server-express)
+
+## Parte 4 — Rodando backend Node.js + TypeScript + Express
+
+-   Tutorial para clonar, instalar e executar backend em Node.js com TypeScript e Express, base para integração com frontend da Parte 2.
+-   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server](https://github.com/leonardorsolar/iff-basic-program-javascript-server)
+
+## Parte 5 — Organizando backend com arquitetura em camadas (Layers)
+
+-   Aprenda a estruturar o backend em camadas para facilitar manutenção e escalabilidade, usando:
+
+    -   Routes: definição das rotas HTTP
+    -   Controller: entrada e saída das requisições
+    -   Service: regras de negócio
+    -   Repository: acesso ao banco de dados
+    -   Model: estrutura da entidade
+    -   Database: configuração da conexão
+
+-   Projeto simples para cadastrar usuários com Express, TypeScript e SQLite.
+-   Repositório: [https://github.com/leonardorsolar/iff-architecture-program-javascript-server](https://github.com/leonardorsolar/iff-architecture-program-javascript-server)
+
+---
 
 ## Parte 1 — Projeto Básico JavaScript + MVC no Node.js
 
@@ -583,7 +625,3 @@ src/
 ---
 
 Se quiser, posso ajudar com exemplos para integrar este backend organizado ao frontend da Parte 2! Quer que eu faça?
-
----
-
-Quer que eu gere também o código completo com comentários para você copiar e colar?
