@@ -1,4 +1,4 @@
-# Tutorial Sequencial para Iniciantes em JavaScript e Frontend com Node.js
+# Tutorial Sequencial - Desenvolvimento de Softwares
 
 # Projetos Frontend
 
