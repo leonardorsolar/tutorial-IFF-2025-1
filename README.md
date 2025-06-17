@@ -36,17 +36,9 @@
 -   Será desafiado a rodar e a comprender um projeto com a camada controller
 -   Repositório: [https://github.com/leonardorsolar/api-java](https://github.com/leonardorsolar/api-java)
 
-## Parte 2 — Projeto Frontend em HTML, CSS e JavaScript para Registrar Usuário
+## Parte 2 — Executando servidor
 
--   Aprenderá a baixar o projeto do GitHub
--   Como abrir e entender os arquivos HTML, CSS e JavaScript.
--   Como rodar o projeto localmente para testar no navegador.
--   Como funciona o código que envia dados do formulário para um servidor (backend).
--   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-front](https://github.com/leonardorsolar/iff-basic-program-javascript-front)
-
-## Parte 3 — Executando servidor
-
-### 3.1 — Executando um servidor Node.js com TypeScript e Express
+### 2.1 — Executando um servidor Node.js com TypeScript e Express
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Compreenderá como rodar um servidor (localmente) do tipo Express.
@@ -54,7 +46,7 @@
 -   Entraremos no paradigma orientado a objetos (OOP)
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server-express](https://github.com/leonardorsolar/iff-basic-program-javascript-server-express)
 
-### 3.2 — Executando um servidor Java com Spring Boot
+### 2.2 — Executando um servidor Java com Spring Boot
 
 -   Aprenderá a baixar o projeto do GitHub e configurar em sua máquina.
 -   Compreenderá como executar um servidor local usando o framework Spring Boot, o mais utilizado em aplicações Java corporativas.
@@ -62,21 +54,21 @@
 -   Entraremos no paradigma da Programação Orientada a Objetos (POO) na prática.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot](https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot)
 
-## Parte 4 — Executando servidor com conexão com banco de dados
+## Parte 3 — Executando servidor com conexão com banco de dados
 
-### 4.1 — Executando servidor com conexão com banco de dados Mysql com TypeScript
+### 3.1 — Executando servidor com conexão com banco de dados Mysql com TypeScript
 
 -   Conhecerá como seria uma conexão com o banco de dados mysql
 -   Repositório: [https://github.com/leonardorsolar/app-server-mysql-base](https://github.com/leonardorsolar/app-server-mysql-base)
 
-### 4.2 — Executando servidor com conexão com banco de dados Mysql com Java
+### 3.2 — Executando servidor com conexão com banco de dados Mysql com Java
 
 -   Conhecerá como seria uma conexão com o banco de dados mysql
 -   Repositório: [https://github.com/leonardorsolar/simple-db-java-spring](https://github.com/leonardorsolar/simple-db-java-spring)
 
-## Parte 5 — Rodando Backend para conectar com o Frontend
+## Parte 4 — Rodando Backend para conectar com o Frontend
 
-### 5.1 — Rodando backend Node.js + TypeScript + Express
+### 4.1 — Rodando backend Node.js + TypeScript + Express
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Conhecerá uma arquitetura em camadas
@@ -85,7 +77,7 @@
 -   Será desafiado a conectar um projeto Front end com um Back end.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server](https://github.com/leonardorsolar/iff-basic-program-javascript-server)
 
-### 5.2 — Rodando backend Node.js + TypeScript + Express
+### 4.2 — Rodando backend Node.js + TypeScript + Express
 
 -   Aprenderá a baixar e configurar o projeto Java no VS Code ou outra IDE
 -   Conhecerá a arquitetura MVC típica do Spring Boot
@@ -93,7 +85,7 @@
 -   Será desafiado a conectar um projeto Frontend com um Backend Java
 -   Repositório: [https://github.com/leonardorsolar/server-java-form-mvc](https://github.com/leonardorsolar/server-java-form-mvc)
 
-## Parte 6 — Projeto em React javascript para Registrar Usuário
+## Parte 5 — Projeto em React javascript para Registrar Usuário
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Como abrir e entender os arquivos do react.
