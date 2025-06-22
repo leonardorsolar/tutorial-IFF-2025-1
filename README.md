@@ -30,15 +30,30 @@
 -   Uso do paradigma Procedural (ou Estruturado) - Uso de função (usuario) para encapsular um comportamento.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-](https://github.com/leonardorsolar/iff-basic-program-javascript-)
 
-### 1.2 — Projeto Básico Java (Em construção)
+### 1.2 — Projeto Básico Java 
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Será desafiado a rodar e a comprender um projeto com a camada controller
--   Repositório: [https://github.com/leonardorsolar/api-java](https://github.com/leonardorsolar/api-java)
+-   Repositório: [https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot](https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot)
+
 
 ## Parte 2 — Executando servidor
 
-### 2.1 — Executando um servidor Node.js com TypeScript e Express
+### 2.1 — Executando um servidor simples (hello Word) em diferentes linguagens
+
+-   Aprenderá a baixar o projeto do GitHub
+-   Compreenderá como rodar um servidor (localmente).
+-   Utilizaremos TypeScript, CSharp, Java, Go, Python
+-   Repositório: [https://github.com/leonardorsolar/hello-api-iff](https://github.com/leonardorsolar/hello-api-iff)
+
+### 2.2 — Executando um servidor em diferentes linguagens
+
+-   Aprenderá a baixar o projeto do GitHub
+-   Compreenderá como rodar um servidor (localmente).
+-   Utilizaremos TypeScript, CSharp, Java, Go, Python
+-   Repositório: [https://github.com/leonardorsolar/estudo-api-iff](https://github.com/leonardorsolar/estudo-api-iff)
+
+### 2.3 — Executando um servidor Node.js com TypeScript e Express
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Compreenderá como rodar um servidor (localmente) do tipo Express.
@@ -46,13 +61,14 @@
 -   Entraremos no paradigma orientado a objetos (OOP)
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server-express](https://github.com/leonardorsolar/iff-basic-program-javascript-server-express)
 
-### 2.2 — Executando um servidor Java com Spring Boot
+
+### 2.4 — Executando um servidor Java com Spring Boot
 
 -   Aprenderá a baixar o projeto do GitHub e configurar em sua máquina.
 -   Compreenderá como executar um servidor local usando o framework Spring Boot, o mais utilizado em aplicações Java corporativas.
 -   Utilizaremos Java, uma linguagem fortemente tipada e orientada a objetos.
 -   Entraremos no paradigma da Programação Orientada a Objetos (POO) na prática.
--   Repositório: [https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot](https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot)
+-   Repositório: [https://github.com/leonardorsolar/api-java](https://github.com/leonardorsolar/api-java)
 
 ## Parte 3 — Executando servidor com conexão com banco de dados
 
