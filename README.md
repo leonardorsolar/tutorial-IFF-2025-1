@@ -157,7 +157,7 @@
 
 -   Repositório: [https://github.com/leonardorsolar/communication-microservice](https://github.com/leonardorsolar/communication-microservice)
 
-## Parte 6 — Framework NestJs
+## Parte 7 — Framework NestJs
 
 Next.js é um framework JavaScript de código aberto construído sobre o React, projetado para facilitar o desenvolvimento de aplicações web rápidas e eficientes. Ele oferece recursos como renderização do lado do servidor (SSR), geração estática de sites (SSG) e roteamento automático, além de otimizações de desempenho e experiência do desenvolvedor.
 
