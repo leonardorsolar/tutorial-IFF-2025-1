@@ -30,12 +30,11 @@
 -   Uso do paradigma Procedural (ou Estruturado) - Uso de função (usuario) para encapsular um comportamento.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-](https://github.com/leonardorsolar/iff-basic-program-javascript-)
 
-### 1.2 — Projeto Básico Java 
+### 1.2 — Projeto Básico Java
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Será desafiado a rodar e a comprender um projeto com a camada controller
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot](https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot)
-
 
 ## Parte 2 — Executando servidor
 
@@ -60,7 +59,6 @@
 -   Utilizaremos TypeScript (Linguagem de programação fortemente tipada)
 -   Entraremos no paradigma orientado a objetos (OOP)
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server-express](https://github.com/leonardorsolar/iff-basic-program-javascript-server-express)
-
 
 ### 2.4 — Executando um servidor Java com Spring Boot
 
@@ -126,7 +124,7 @@
 
 ## Parte 2 — Arquitetura em camadas (Layers)
 
--   Aprenderá a compreender as prinicpais arquiteturas existentes
+-   Aprenderá a compreender as principais arquiteturas existentes
 
     -   API básica em Typescript, Java, Csharp e Python
     -   MVC em Java e typescript
@@ -158,6 +156,13 @@
 ## Parte 6 — Microserviço
 
 -   Repositório: [https://github.com/leonardorsolar/communication-microservice](https://github.com/leonardorsolar/communication-microservice)
+
+## Parte 6 — Framework NestJs
+
+Next.js é um framework JavaScript de código aberto construído sobre o React, projetado para facilitar o desenvolvimento de aplicações web rápidas e eficientes. Ele oferece recursos como renderização do lado do servidor (SSR), geração estática de sites (SSG) e roteamento automático, além de otimizações de desempenho e experiência do desenvolvedor.
+
+-   Será desafiado a criar uma estrutura em backend e uma em front e fazer a conexão com o NestJs:
+-   Repositório: [https://github.com/leonardorsolar/user-nestjs](https://github.com/leonardorsolar/user-nestjs)
 
 # Qualidade de sofwtare
 
