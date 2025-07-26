@@ -25,7 +25,7 @@ Sumário:
     -   Parte 3 — Arquitetura em camadas (Layers)
     -   Parte 4 — Arquitetura em camadas (Layers) em java
     -   Parte 5 — Arquitetura hexagonal (Typescript e Java )
-    -   Parte 6 — Clean Architecture (em condtrução)
+    -   Parte 6 — Clean Architecture (em construção)
     -   Parte 7 — Microserviço
     -   Padrões de Projeto
         -   Parte 1 — Essencial
@@ -53,12 +53,12 @@ Sumário:
 
 # Programação orientado a objetos - POO
 
-### Parte 1 — Coesão e Acoplamento
+### Parte 1 — Coesão e Acoplamento em Typescript
 
     -   Aprenderá sobre Coesão e Acoplamento, conceitos fundamentais para design de software orientado a objetos.
     -   Repositório: [https://github.com/leonardorsolar/AulaCoesaoAcoplamento](https://github.com/leonardorsolar/AulaCoesaoAcoplamento)
 
-### Parte 2 — Relacionamento entre classes
+### Parte 2 — Relacionamento entre classes em Typescript
 
 -   Entenderá as relações entre classes, ordenadas da mais fraca (Dependência) até a mais forte (Composição).
 -   Estudará os conceitos e exemplos práticos de:
@@ -92,7 +92,7 @@ Sumário:
 
 ### Parte 1 — Projetos Básicos:
 
-### 1.1 — Projeto Básico JavaScript + MVC no Node.js
+#### 1.1 — Projeto Básico JavaScript + MVC no Node.js
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Comprender rodar e a saber como funciona uma função em javascript
@@ -144,7 +144,7 @@ Sumário:
 
 -   Repositório: Java Hello, World! [https://github.com/leonardorsolar/server-java-form-maven/tree/main](https://github.com/leonardorsolar/server-java-form-maven/tree/main)
 
-### 2.6 — Api com controller!
+#### 2.6 — Api com controller!
 
 -   Repositório: Typescript criarUsuario [https://github.com/leonardorsolar/server-javascript-form-express](https://github.com/leonardorsolar/server-javascript-form-express)
 
@@ -152,19 +152,19 @@ Sumário:
 
 ### Parte 3 — Executando servidor com conexão com banco de dados
 
-### 3.1 — Executando servidor com conexão com banco de dados Mysql com TypeScript
+#### 3.1 — Executando servidor com conexão com banco de dados Mysql com TypeScript
 
 -   Conhecerá como seria uma conexão com o banco de dados mysql
 -   Repositório: [https://github.com/leonardorsolar/app-server-mysql-base](https://github.com/leonardorsolar/app-server-mysql-base)
 
-### 3.2 — Executando servidor com conexão com banco de dados Mysql com Java
+#### 3.2 — Executando servidor com conexão com banco de dados Mysql com Java
 
 -   Conhecerá como seria uma conexão com o banco de dados mysql
 -   Repositório: [https://github.com/leonardorsolar/simple-db-java-spring](https://github.com/leonardorsolar/simple-db-java-spring)
 
 ### Parte 4 — Rodando Backend para conectar com o Frontend
 
-### 4.1 — Rodando backend Node.js + TypeScript + Express
+#### 4.1 — Rodando backend Node.js + TypeScript + Express
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Conhecerá uma arquitetura em camadas
@@ -173,7 +173,7 @@ Sumário:
 -   Será desafiado a conectar um projeto Front end com um Back end.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server](https://github.com/leonardorsolar/iff-basic-program-javascript-server)
 
-### 4.2 — Rodando backend Node.js + TypeScript + Express
+#### 4.2 — Rodando backend Node.js + TypeScript + Express
 
 -   Aprenderá a baixar e configurar o projeto Java no VS Code ou outra IDE
 -   Conhecerá a arquitetura MVC típica do Spring Boot
@@ -227,17 +227,17 @@ Sumário:
 
 ### Parte 5 — Arquitetura hexagonal
 
-### 5.1 — Arquitetura hexagonal em Typescript
+#### 5.1 — Arquitetura hexagonal em Typescript
 
 -   Repositório: [https://github.com/leonardorsolar/hexagonal_architecture](https://github.com/leonardorsolar/hexagonal_architecture)
 
-### 5.2 — Arquitetura hexagonal em Java
+#### 5.2 — Arquitetura hexagonal em Java
 
-### 5.2.1 — Arquitetura hexagonal em Java (básico)
+#### 5.2.1 — Arquitetura hexagonal em Java (básico)
 
 -   Repositório: [https://github.com/leonardorsolar/ecommerce-hexagonal-java/](https://github.com/leonardorsolar/ecommerce-hexagonal-java/)
 
-### 5.2.2 — Arquitetura hexagonal em Java
+#### 5.2.2 — Arquitetura hexagonal em Java
 
 -   Etapa 1: Configuração básica Java Spring Boot + SQLite
     -   Repositório: [https://github.com/leonardorsolar/user-hexagonal-java-1-1-config](https://github.com/leonardorsolar/user-hexagonal-java-1-1-config)
@@ -250,7 +250,7 @@ Sumário:
 -   Etapa 4: Camada de infrastructure — Criação do Adaptador para Consulta de Endereço via CEP (API Externa - ViaCEP)
     -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4)
 
-### 5.2.3 — Arquitetura hexagonal em Java Tutorial Arquitetura Hexagonal - CRUD de Usuários | API + MongoDB (NoSQL) + Kafka (Mensageria):
+#### 5.2.3 — Arquitetura hexagonal em Java Tutorial Arquitetura Hexagonal - CRUD de Usuários | API + MongoDB (NoSQL) + Kafka (Mensageria):
 
 -   Etapa 1: Configuração básica Java Spring Boot + SQLite e Estrutura do projeto
     -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-1](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-1)
@@ -318,9 +318,12 @@ ver: https://github.com/leonardorsolar/es_base_iff
 
 ---
 
-# Desafio vaga de emprego : Sistema de Gestão de Tarefas
+# Desafio vaga de emprego
 
-Repositório: [https://github.com/leonardorsolar/challenge-task-management](https://github.com/leonardorsolar/challenge-task-management)
+## Sistema de Gestão de Tarefas
+
+-   Repositório: [https://github.com/leonardorsolar/challenge-task-management](https://github.com/leonardorsolar/challenge-task-management)
+-   Projeto: [Desafio](https://github.com/leonardorsolar/challenge-task-management/blob/main/doc/desafio/Teste%20Pr%C3%A1tico.docx.pdf)
 
 # Softwares básicos
 
