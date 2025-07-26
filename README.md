@@ -1,5 +1,63 @@
 # Tutorial Sequencial - Desenvolvimento de Softwares
 
+Sumário:
+
+-   Tutorias básicos
+    -   Básico para programação em Typescript
+    -   Básico para programação em Python
+    -   Básico para programação em Java
+-   Programação orientado a objetos - POO
+    -   Parte 1 — Relação entre classes
+-   Projetos Frontend
+    -   Parte 1 — Projetos Básicos em HTML, CSS e JavaScript: (em contrução)
+    -   Parte 2 — Projeto Frontend em HTML, CSS e JavaScript para Registrar Usuário
+    -   Parte 3 — Projeto Frontend em React básico
+-   Projetos Backend
+    -   Parte 1 — Projetos Básicos typescript e java
+    -   Parte 2 — Executando servidor (TypeScript, CSharp, Java, Go, Python)
+    -   Parte 3 — Executando servidor com conexão com banco de dados (TypeScript e Java)
+    -   Parte 4 — Rodando Backend para conectar com o Frontend
+-   Arquitetura de sofwtare
+    -   Parte 1 — Organizando backend com arquitetura em camadas (Layers)
+    -   Parte 2 — Arquitetura em camadas (Layers)
+    -   Parte 3 — Arquitetura em camadas (Layers) em java
+    -   Parte 4 — Arquitetura hexagonal (Typescript e Java )
+    -   Parte 5 — Clean Architecture (em condtrução)
+    -   Parte 6 — Microserviço
+    -   Parte 7 — Framework NestJs
+-   Qualidade de sofwtare
+    -   Parte 1 — Padrão de código com typescript
+    -   Parte 2 — Qualidade de Código com SonarQube
+    -   Parte 3 — Teste de software
+
+# Tutorias básicos
+
+## Básico para programação em Typescript
+
+-   Repositório: [https://github.com/leonardorsolar/basic-typescript](https://github.com/leonardorsolar/basic-typescript)
+
+## Básico para programação em Python
+
+-   Repositório: [https://github.com/leonardorsolar/basic-python3](https://github.com/leonardorsolar/basic-python3)
+
+## Básico para programação em Java
+
+-   Repositório: [https://github.com/leonardorsolar/basic-java](https://github.com/leonardorsolar/basic-java)
+
+# Programação orientado a objetos - POO
+
+## Parte 1 — Relação entre classes
+
+-   Aprenderá sobre Coesão e Acoplamento, conceitos fundamentais para design de software orientado a objetos.
+-   Entenderá as relações entre classes, ordenadas da mais fraca (Dependência) até a mais forte (Composição).
+-   Estudará os conceitos e exemplos práticos de:
+    -   Dependência
+    -   Associação
+    -   Agregação
+    -   Composição
+    -   Herança
+-   Repositório: [https://github.com/leonardorsolar/associacao-iff](https://github.com/leonardorsolar/associacao-iff)
+
 # Projetos Frontend
 
 ## Parte 1 — Projetos Básicos em HTML, CSS e JavaScript: (em contrução)
@@ -68,6 +126,18 @@
 -   Entraremos no paradigma da Programação Orientada a Objetos (POO) na prática.
 -   Repositório: [https://github.com/leonardorsolar/api-java](https://github.com/leonardorsolar/api-java)
 
+### 2.5 — Testes com Hello, World!
+
+-   Repositório: Typescript Hello, World! [https://github.com/leonardorsolar/server-javascript-form-express](https://github.com/leonardorsolar/server-javascript-form-express)
+
+-   Repositório: Java Hello, World! [https://github.com/leonardorsolar/server-java-form-maven/tree/main](https://github.com/leonardorsolar/server-java-form-maven/tree/main)
+
+### 2.6 — Api com controller!
+
+-   Repositório: Typescript criarUsuario [https://github.com/leonardorsolar/server-javascript-form-express](https://github.com/leonardorsolar/server-javascript-form-express)
+
+-   Repositório: Java com controller (usercontroller) [https://github.com/leonardorsolar/server-java-form-maven-usercontroller](https://github.com/leonardorsolar/server-java-form-maven-usercontroller)
+
 ## Parte 3 — Executando servidor com conexão com banco de dados
 
 ### 3.1 — Executando servidor com conexão com banco de dados Mysql com TypeScript
@@ -108,6 +178,10 @@
 
 # Arquitetura de sofwtare
 
+## Parte 1 — Arquitetura simples
+
+-   Repositório: MVC typescript [https://github.com/leonardorsolar/simple-mvc-user](https://github.com/leonardorsolar/simple-mvc-user)
+
 ## Parte 1 — Organizando backend com arquitetura em camadas (Layers)
 
 -   Será desafiado a estruturar o backend em camadas para facilitar manutenção e escalabilidade, usando:
@@ -147,7 +221,30 @@
 
 ### 4.1 — Arquitetura hexagonal em Java
 
+### 4.1.1 — Arquitetura hexagonal em Java (básico)
+
 -   Repositório: [https://github.com/leonardorsolar/ecommerce-hexagonal-java/](https://github.com/leonardorsolar/ecommerce-hexagonal-java/)
+
+### 4.1.2 — Arquitetura hexagonal em Java
+
+-   Etapa 1: Configuração básica Java Spring Boot + SQLite
+    -   Repositório: [https://github.com/leonardorsolar/user-hexagonal-java-1-1-config](https://github.com/leonardorsolar/user-hexagonal-java-1-1-config)
+-   Etapa 2: Tutorial CRUD de Usuários em camadas
+    -   Repositório: [https://github.com/leonardorsolar/user-hexagonal-java-1-2-crud](https://github.com/leonardorsolar/user-hexagonal-java-1-2-crud)
+-   Etapa 3: Refatoração para Arquitetura Hexagonal
+    -   Repositório: [https://github.com/leonardorsolar/user-hexagonal-java-1-3-Arch](https://github.com/leonardorsolar/user-hexagonal-java-1-3-Arch)
+-   Etapa 4: Camada de infrastructure — Criação do Adaptador para Consulta de Endereço via CEP (API Externa - ViaCEP)
+    -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4)
+-   Etapa 4: Camada de infrastructure — Criação do Adaptador para Consulta de Endereço via CEP (API Externa - ViaCEP)
+    -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4)
+
+### 4.1.2 — Arquitetura hexagonal em Java Tutorial Arquitetura Hexagonal - CRUD de Usuários | API + MongoDB (NoSQL) + Kafka (Mensageria):
+
+-   Etapa 1: Configuração básica Java Spring Boot + SQLite e Estrutura do projeto
+    -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-1](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-1)
+-   Etapa 2, 3, 4, 5, 6, 7
+-   Etapa 8: Spring Boot + Kafka + Kafka UI com Docker
+    -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-8](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-8)
 
 ## Parte 5 — Clean Architecture
 
@@ -162,7 +259,9 @@
 Next.js é um framework JavaScript de código aberto construído sobre o React, projetado para facilitar o desenvolvimento de aplicações web rápidas e eficientes. Ele oferece recursos como renderização do lado do servidor (SSR), geração estática de sites (SSG) e roteamento automático, além de otimizações de desempenho e experiência do desenvolvedor.
 
 -   Será desafiado a criar uma estrutura em backend e uma em front e fazer a conexão com o NestJs:
--   Repositório: [https://github.com/leonardorsolar/user-nestjs](https://github.com/leonardorsolar/user-nestjs)
+-   Repositório Parte 1: [https://github.com/leonardorsolar/user-nestjs-1-1](https://github.com/leonardorsolar/user-nestjs-1-1)
+-   Repositório Parte 2,3,4
+-   Repositório Parte 5: [https://github.com/leonardorsolar/user-nestjs-best-practices-1-5](https://github.com/leonardorsolar/user-nestjs-best-practices-1-5)
 
 # Qualidade de sofwtare
 
@@ -191,21 +290,11 @@ ver: https://github.com/leonardorsolar/es_base_iff
 -   Repositório: [https://github.com/leonardorsolar/server-java-maven-junit/](https://github.com/leonardorsolar/server-java-maven-junit/)
 -   Repositório: [https://github.com/leonardorsolar/server-java-form-iff-start01](https://github.com/leonardorsolar/server-java-form-iff-start01)
 
-# Programação orientado a objetos - POO
-
-## Parte 1 — Relação entre classes
-
--   Aprenderá sobre Coesão e Acoplamento, conceitos fundamentais para design de software orientado a objetos.
--   Entenderá as relações entre classes, ordenadas da mais fraca (Dependência) até a mais forte (Composição).
--   Estudará os conceitos e exemplos práticos de:
-    -   Dependência
-    -   Associação
-    -   Agregação
-    -   Composição
-    -   Herança
--   Repositório: [https://github.com/leonardorsolar/associacao-iff](https://github.com/leonardorsolar/associacao-iff)
-
 ---
+
+# Desafio vaga de emprego : Sistema de Gestão de Tarefas
+
+Repositório: [https://github.com/leonardorsolar/challenge-task-management](https://github.com/leonardorsolar/challenge-task-management)
 
 # Softwares básicos
 
@@ -240,23 +329,4 @@ Repositório mvc: [https://github.com/leonardorsolar/react-admin](https://github
 
 -   Repositório: [https://github.com/leonardorsolar/java-dslist-backend](https://github.com/leonardorsolar/java-dslist-backend)
 
-# Outros:
-
-## Typescript Hello, World!
-
--   Repositório: [https://github.com/leonardorsolar/server-javascript-form-express](https://github.com/leonardorsolar/server-javascript-form-express)
-
-## Java Hello, World!
-
--   Repositório: [https://github.com/leonardorsolar/server-java-form-maven/tree/main](https://github.com/leonardorsolar/server-java-form-maven/tree/main)
-
-## Typescript criarUsuario
-
--   Repositório: [https://github.com/leonardorsolar/server-javascript-form-express](https://github.com/leonardorsolar/server-javascript-form-express)
-
-## Java com controller (usercontroller)
-
--   Repositório: [https://github.com/leonardorsolar/server-java-form-maven-usercontroller](https://github.com/leonardorsolar/server-java-form-maven-usercontroller)
-
 ver:
-https://github.com/leonardorsolar/simple-mvc-user
