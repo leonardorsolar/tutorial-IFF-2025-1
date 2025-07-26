@@ -7,6 +7,8 @@ Sumário:
     -   Básico para programação em Python
     -   Básico para programação em Java
 -   Programação orientado a objetos - POO
+    -   Parte 1 — Coesão e Acoplamento
+    -   Parte 2 — Relacionamento entre classes
     -   Parte 1 — Relação entre classes
 -   Projetos Frontend
     -   Parte 1 — Projetos Básicos em HTML, CSS e JavaScript: (em contrução)
@@ -18,37 +20,46 @@ Sumário:
     -   Parte 3 — Executando servidor com conexão com banco de dados (TypeScript e Java)
     -   Parte 4 — Rodando Backend para conectar com o Frontend
 -   Arquitetura de sofwtare
-    -   Parte 1 — Organizando backend com arquitetura em camadas (Layers)
-    -   Parte 2 — Arquitetura em camadas (Layers)
-    -   Parte 3 — Arquitetura em camadas (Layers) em java
-    -   Parte 4 — Arquitetura hexagonal (Typescript e Java )
-    -   Parte 5 — Clean Architecture (em condtrução)
-    -   Parte 6 — Microserviço
-    -   Parte 7 — Framework NestJs
+    -   Parte 1 — Arquitetura simples
+    -   Parte 2 — Organizando backend com arquitetura em camadas (Layers)
+    -   Parte 3 — Arquitetura em camadas (Layers)
+    -   Parte 4 — Arquitetura em camadas (Layers) em java
+    -   Parte 5 — Arquitetura hexagonal (Typescript e Java )
+    -   Parte 6 — Clean Architecture (em condtrução)
+    -   Parte 7 — Microserviço
+    -   Padrões de Projeto
+        -   Parte 1 — Essencial
+    -   Framework
+        -   Parte 1 — NestJs - Typescript
+        -   Parte 2 - SpringBoot - Java (em contrução)
+        -   Parte 3 - Django - Python (em contrução)
+        -   Parte 4 - FastApi - Python (em contrução)
 -   Qualidade de sofwtare
     -   Parte 1 — Padrão de código com typescript
     -   Parte 2 — Qualidade de Código com SonarQube
     -   Parte 3 — Teste de software
 
-# Tutorias básicos
-
-## Básico para programação em Typescript
+### Básico para programação em Typescript
 
 -   Repositório: [https://github.com/leonardorsolar/basic-typescript](https://github.com/leonardorsolar/basic-typescript)
 
-## Básico para programação em Python
+### Básico para programação em Python
 
 -   Repositório: [https://github.com/leonardorsolar/basic-python3](https://github.com/leonardorsolar/basic-python3)
 
-## Básico para programação em Java
+### Básico para programação em Java
 
 -   Repositório: [https://github.com/leonardorsolar/basic-java](https://github.com/leonardorsolar/basic-java)
 
 # Programação orientado a objetos - POO
 
-## Parte 1 — Relação entre classes
+### Parte 1 — Coesão e Acoplamento
 
--   Aprenderá sobre Coesão e Acoplamento, conceitos fundamentais para design de software orientado a objetos.
+    -   Aprenderá sobre Coesão e Acoplamento, conceitos fundamentais para design de software orientado a objetos.
+    -   Repositório: [https://github.com/leonardorsolar/AulaCoesaoAcoplamento](https://github.com/leonardorsolar/AulaCoesaoAcoplamento)
+
+### Parte 2 — Relacionamento entre classes
+
 -   Entenderá as relações entre classes, ordenadas da mais fraca (Dependência) até a mais forte (Composição).
 -   Estudará os conceitos e exemplos práticos de:
     -   Dependência
@@ -56,13 +67,14 @@ Sumário:
     -   Agregação
     -   Composição
     -   Herança
+-   Repositório: [https://github.com/leonardorsolar/AulaRelacionamentoentreClasses](https://github.com/leonardorsolar/AulaRelacionamentoentreClasses)
 -   Repositório: [https://github.com/leonardorsolar/associacao-iff](https://github.com/leonardorsolar/associacao-iff)
 
 # Projetos Frontend
 
-## Parte 1 — Projetos Básicos em HTML, CSS e JavaScript: (em contrução)
+### Parte 1 — Projetos Básicos em HTML, CSS e JavaScript: (em contrução)
 
-## Parte 2 — Projeto Frontend em HTML, CSS e JavaScript para Registrar Usuário
+### Parte 2 — Projeto Frontend em HTML, CSS e JavaScript para Registrar Usuário
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Como abrir e entender os arquivos HTML, CSS e JavaScript.
@@ -70,7 +82,7 @@ Sumário:
 -   Como funciona o código que envia dados do formulário para um servidor (backend).
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-front](https://github.com/leonardorsolar/iff-basic-program-javascript-front)
 
-## Parte 3 — Projeto Frontend em React básico
+### Parte 3 — Projeto Frontend em React básico
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Como abrir e entender o prjeto em React js
@@ -78,7 +90,7 @@ Sumário:
 
 # Projetos Backend
 
-## Parte 1 — Projetos Básicos:
+### Parte 1 — Projetos Básicos:
 
 ### 1.1 — Projeto Básico JavaScript + MVC no Node.js
 
@@ -88,29 +100,29 @@ Sumário:
 -   Uso do paradigma Procedural (ou Estruturado) - Uso de função (usuario) para encapsular um comportamento.
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-](https://github.com/leonardorsolar/iff-basic-program-javascript-)
 
-### 1.2 — Projeto Básico Java
+#### 1.2 — Projeto Básico Java
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Será desafiado a rodar e a comprender um projeto com a camada controller
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot](https://github.com/leonardorsolar/iff-basic-program-java-server-spring-boot)
 
-## Parte 2 — Executando servidor
+### Parte 2 — Executando servidor
 
-### 2.1 — Executando um servidor simples (hello Word) em diferentes linguagens
+#### 2.1 — Executando um servidor simples (hello Word) em diferentes linguagens
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Compreenderá como rodar um servidor (localmente).
 -   Utilizaremos TypeScript, CSharp, Java, Go, Python
 -   Repositório: [https://github.com/leonardorsolar/hello-api-iff](https://github.com/leonardorsolar/hello-api-iff)
 
-### 2.2 — Executando um servidor em diferentes linguagens
+#### 2.2 — Executando um servidor em diferentes linguagens
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Compreenderá como rodar um servidor (localmente).
 -   Utilizaremos TypeScript, CSharp, Java, Go, Python
 -   Repositório: [https://github.com/leonardorsolar/estudo-api-iff](https://github.com/leonardorsolar/estudo-api-iff)
 
-### 2.3 — Executando um servidor Node.js com TypeScript e Express
+#### 2.3 — Executando um servidor Node.js com TypeScript e Express
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Compreenderá como rodar um servidor (localmente) do tipo Express.
@@ -118,7 +130,7 @@ Sumário:
 -   Entraremos no paradigma orientado a objetos (OOP)
 -   Repositório: [https://github.com/leonardorsolar/iff-basic-program-javascript-server-express](https://github.com/leonardorsolar/iff-basic-program-javascript-server-express)
 
-### 2.4 — Executando um servidor Java com Spring Boot
+#### 2.4 — Executando um servidor Java com Spring Boot
 
 -   Aprenderá a baixar o projeto do GitHub e configurar em sua máquina.
 -   Compreenderá como executar um servidor local usando o framework Spring Boot, o mais utilizado em aplicações Java corporativas.
@@ -126,7 +138,7 @@ Sumário:
 -   Entraremos no paradigma da Programação Orientada a Objetos (POO) na prática.
 -   Repositório: [https://github.com/leonardorsolar/api-java](https://github.com/leonardorsolar/api-java)
 
-### 2.5 — Testes com Hello, World!
+#### 2.5 — Testes com Hello, World!
 
 -   Repositório: Typescript Hello, World! [https://github.com/leonardorsolar/server-javascript-form-express](https://github.com/leonardorsolar/server-javascript-form-express)
 
@@ -138,7 +150,7 @@ Sumário:
 
 -   Repositório: Java com controller (usercontroller) [https://github.com/leonardorsolar/server-java-form-maven-usercontroller](https://github.com/leonardorsolar/server-java-form-maven-usercontroller)
 
-## Parte 3 — Executando servidor com conexão com banco de dados
+### Parte 3 — Executando servidor com conexão com banco de dados
 
 ### 3.1 — Executando servidor com conexão com banco de dados Mysql com TypeScript
 
@@ -150,7 +162,7 @@ Sumário:
 -   Conhecerá como seria uma conexão com o banco de dados mysql
 -   Repositório: [https://github.com/leonardorsolar/simple-db-java-spring](https://github.com/leonardorsolar/simple-db-java-spring)
 
-## Parte 4 — Rodando Backend para conectar com o Frontend
+### Parte 4 — Rodando Backend para conectar com o Frontend
 
 ### 4.1 — Rodando backend Node.js + TypeScript + Express
 
@@ -169,7 +181,7 @@ Sumário:
 -   Será desafiado a conectar um projeto Frontend com um Backend Java
 -   Repositório: [https://github.com/leonardorsolar/server-java-form-mvc](https://github.com/leonardorsolar/server-java-form-mvc)
 
-## Parte 5 — Projeto em React javascript para Registrar Usuário
+### Parte 5 — Projeto em React javascript para Registrar Usuário
 
 -   Aprenderá a baixar o projeto do GitHub
 -   Como abrir e entender os arquivos do react.
@@ -178,11 +190,11 @@ Sumário:
 
 # Arquitetura de sofwtare
 
-## Parte 1 — Arquitetura simples
+### Parte 1 — Arquitetura simples
 
 -   Repositório: MVC typescript [https://github.com/leonardorsolar/simple-mvc-user](https://github.com/leonardorsolar/simple-mvc-user)
 
-## Parte 1 — Organizando backend com arquitetura em camadas (Layers)
+### Parte 2 — Organizando backend com arquitetura em camadas (Layers)
 
 -   Será desafiado a estruturar o backend em camadas para facilitar manutenção e escalabilidade, usando:
 
@@ -196,7 +208,7 @@ Sumário:
 -   Projeto simples para cadastrar usuários com Express, TypeScript e SQLite.
 -   Repositório: [https://github.com/leonardorsolar/iff-architecture-program-javascript-server](https://github.com/leonardorsolar/iff-architecture-program-javascript-server)
 
-## Parte 2 — Arquitetura em camadas (Layers)
+### Parte 3 — Arquitetura em camadas (Layers)
 
 -   Aprenderá a compreender as principais arquiteturas existentes
 
@@ -209,23 +221,23 @@ Sumário:
 -   Projeto simples para cadastrar usuários com Express, TypeScript e SQLite.
 -   Repositório: [https://github.com/leonardorsolar/iff-architecture-program-javascript-server](https://github.com/leonardorsolar/iff-architecture-program-javascript-server)
 
-## Parte 3 — Arquitetura em camadas (Layers) em java
+### Parte 4 — Arquitetura em camadas (Layers) em java
 
 -   Repositório: [https://github.com/leonardorsolar/java-basic](https://github.com/leonardorsolar/java-basic)
 
-## Parte 4 — Arquitetura hexagonal
+### Parte 5 — Arquitetura hexagonal
 
-### 4.1 — Arquitetura hexagonal em Typescript
+### 5.1 — Arquitetura hexagonal em Typescript
 
 -   Repositório: [https://github.com/leonardorsolar/hexagonal_architecture](https://github.com/leonardorsolar/hexagonal_architecture)
 
-### 4.1 — Arquitetura hexagonal em Java
+### 5.2 — Arquitetura hexagonal em Java
 
-### 4.1.1 — Arquitetura hexagonal em Java (básico)
+### 5.2.1 — Arquitetura hexagonal em Java (básico)
 
 -   Repositório: [https://github.com/leonardorsolar/ecommerce-hexagonal-java/](https://github.com/leonardorsolar/ecommerce-hexagonal-java/)
 
-### 4.1.2 — Arquitetura hexagonal em Java
+### 5.2.2 — Arquitetura hexagonal em Java
 
 -   Etapa 1: Configuração básica Java Spring Boot + SQLite
     -   Repositório: [https://github.com/leonardorsolar/user-hexagonal-java-1-1-config](https://github.com/leonardorsolar/user-hexagonal-java-1-1-config)
@@ -238,7 +250,7 @@ Sumário:
 -   Etapa 4: Camada de infrastructure — Criação do Adaptador para Consulta de Endereço via CEP (API Externa - ViaCEP)
     -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-4)
 
-### 4.1.2 — Arquitetura hexagonal em Java Tutorial Arquitetura Hexagonal - CRUD de Usuários | API + MongoDB (NoSQL) + Kafka (Mensageria):
+### 5.2.3 — Arquitetura hexagonal em Java Tutorial Arquitetura Hexagonal - CRUD de Usuários | API + MongoDB (NoSQL) + Kafka (Mensageria):
 
 -   Etapa 1: Configuração básica Java Spring Boot + SQLite e Estrutura do projeto
     -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-1](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-1)
@@ -246,15 +258,23 @@ Sumário:
 -   Etapa 8: Spring Boot + Kafka + Kafka UI com Docker
     -   Repositório: [https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-8](https://github.com/leonardorsolar/hexagonal-java-SpringBoot-iff-8)
 
-## Parte 5 — Clean Architecture
+### Parte 6 — Clean Architecture
 
 -   Em contrução
 
-## Parte 6 — Microserviço
+## Parte 7 — Microserviço
 
 -   Repositório: [https://github.com/leonardorsolar/communication-microservice](https://github.com/leonardorsolar/communication-microservice)
 
-## Parte 7 — Framework NestJs
+## Padrões de Projetos
+
+### Parte 1 — Essencial
+
+-   Repositório: [https://github.com/leonardorsolar/AulaPadroesdeProjeto](https://github.com/leonardorsolar/AulaPadroesdeProjeto)
+
+## Framework
+
+### Parte 1 — NestJs - Typescript
 
 Next.js é um framework JavaScript de código aberto construído sobre o React, projetado para facilitar o desenvolvimento de aplicações web rápidas e eficientes. Ele oferece recursos como renderização do lado do servidor (SSR), geração estática de sites (SSG) e roteamento automático, além de otimizações de desempenho e experiência do desenvolvedor.
 
@@ -263,9 +283,15 @@ Next.js é um framework JavaScript de código aberto construído sobre o React, 
 -   Repositório Parte 2,3,4
 -   Repositório Parte 5: [https://github.com/leonardorsolar/user-nestjs-best-practices-1-5](https://github.com/leonardorsolar/user-nestjs-best-practices-1-5)
 
+### Parte 2 - SpringBoot - Java (em contrução)
+
+### Parte 3 - Django - Python (em contrução)
+
+### Parte 4 - FastApi - Python (em contrução)
+
 # Qualidade de sofwtare
 
-## Parte 1 — Padrão de código com typescript
+### Parte 1 — Padrão de código com typescript
 
 -   Aprenderá a iniciar um projeto node TypeScript
 -   Padrão de Commits com Conventional Commits
@@ -274,14 +300,14 @@ Next.js é um framework JavaScript de código aberto construído sobre o React, 
 -   Instalar e configurar o Prettier Reforçar estilos de código
 -   Repositório: [https://github.com/leonardorsolar/padrao-codigo-iff-lint-prettier](https://github.com/leonardorsolar/padrao-codigo-iff-lint-prettier)
 
-## Parte 2 — Qualidade de Código com SonarQube
+### Parte 2 — Qualidade de Código com SonarQube
 
 -   Aprenderá a utilizar Sonarcloud para avaliar Qualidade de Código
 -   Repositório: [https://github.com/leonardorsolar/iff-sonarcloud-program-typescript-server](https://github.com/leonardorsolar/iff-sonarcloud-program-typescript-server)
 
 ver: https://github.com/leonardorsolar/es_base_iff
 
-## Parte 3 — Teste de software
+### Parte 3 — Teste de software
 
 -   Aprenderá a utilizar o TDD em Typecript
 -   Repositório: [https://github.com/leonardorsolar/server-typescript-form-iff-01](https://github.com/leonardorsolar/server-typescript-form-iff-01)
@@ -298,34 +324,34 @@ Repositório: [https://github.com/leonardorsolar/challenge-task-management](http
 
 # Softwares básicos
 
-## React admin
+### React admin
 
 Repositório mvc: [https://github.com/leonardorsolar/react-admin](https://github.com/leonardorsolar/react-admin)
 
-## Conta bancária
+### Conta bancária
 
 -   Roteiro de Documentação: [https://github.com/leonardorsolar/projeto-qs](https://github.com/leonardorsolar/projeto-qs)
 -   Repositório mvc: [https://github.com/leonardorsolar/account-event-server-iff](https://github.com/leonardorsolar/account-event-server-iff)
 
 -   Repositório hexagonal: [https://github.com/leonardorsolar/hexagonal-account-diagram/](https://github.com/leonardorsolar/hexagonal-account-diagram/)
 
-## Login:
+### Login:
 
 -   Repositório hexagonal: [https://github.com/leonardorsolar/app-front-server-aula](https://github.com/leonardorsolar/app-front-server-aula)
 
-## criar usuário
+### criar usuário
 
 -   Repositório hexagonal: [https://github.com/leonardorsolar/basic-user](https://github.com/leonardorsolar/basic-user)
 
-## minicurso-iff : engenheria de Software
+### minicurso-iff : engenheria de Software
 
 -   Repositório: [https://github.com/leonardorsolar/minicurso-iff](https://github.com/leonardorsolar/minicurso-iff)
 
-## Microserviço com java e docker
+### Microserviço com java e docker
 
 -   Repositório: [https://github.com/leonardorsolar/product-api-java](https://github.com/leonardorsolar/product-api-java)
 
-## Java mvc classe Gamer completo
+### Java mvc classe Gamer completo
 
 -   Repositório: [https://github.com/leonardorsolar/java-dslist-backend](https://github.com/leonardorsolar/java-dslist-backend)
 
